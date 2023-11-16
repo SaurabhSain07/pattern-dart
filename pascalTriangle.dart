@@ -11,7 +11,7 @@ void main() {
 // 1 3 3 1
 
 pascalTriangle() {
-  var row = 6;
+  var row = 4;
   var space = " ";
   var count = 1;
   for (var i = 1; i <= row; i++) {
