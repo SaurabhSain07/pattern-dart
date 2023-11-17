@@ -47,15 +47,3 @@ underDaimondPattern() {
     print("");
   }
 }
-
-// underDaimondPattern2() {
-//   var row = 5;
-//   var space = " ";
-//   for (var k = row; k >= 1; k--) {
-//     stdout.write("${space * (row - k + 1)}");
-//     for (var l = k; l >= 1; l--) {
-//       stdout.write("*");
-//     }
-//     print("");
-//   }
-// }
